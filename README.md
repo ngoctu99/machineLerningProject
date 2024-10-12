@@ -9,3 +9,12 @@
     <li>pip install SciPy</li>
     <li>pip install matplotlib</li>
 </ul>
+
+
+### Learning day 12.10.2024
+
+<p> List lektion:</p> 
+<ul>
+    <li>Scatter Plot</li>
+    <li>Linear Regression</li>
+</ul>
